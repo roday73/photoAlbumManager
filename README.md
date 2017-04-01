@@ -15,11 +15,13 @@ This REST API implemention utilizes Java 8/Maven/Springboot/SpringMVC Rest and r
 
 2017-03-31 17:49:42.807  INFO 18927 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
 2017-03-31 17:49:42.814  INFO 18927 --- [           main] com.rpo.PhotoAlbumMgrApplication         : Started PhotoAlbumMgrApplication in 9.398 seconds (JVM running for 10.036)
+
+-You are now ready to test the REST endpoints
 ```
 
 ## REST API endpoint details:
 
-- Initialize dummy album and photo data in an embedded H2 database via external REST calls 
+- (First step) Initialize dummy album and photo data in an embedded H2 database via external REST calls 
 ```
      -Method: GET
      -Resource endpoint: http://localhost:8080/init
