@@ -1,7 +1,7 @@
 # photoAlbumManager
 Simple Photo Album Manager implementing a REST API
 
-This REST API implemention utilizes Java 8/Maven/Springboot/SpringMVC Rest/JPA and runs in an embedded Tomcat container within Springboot.  
+This REST API implemention utilizes Java 8/Maven/Springboot/SpringMVC Rest and runs in an embedded Tomcat container within Springboot.  
 
 How to run the app:
 
