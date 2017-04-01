@@ -38,7 +38,7 @@ This REST API implemention utilizes Java 8/Maven/SpringMVC Rest and runs in an e
 - Retrieve a single album
 ```
     -Method: GET
-	  -Resource endpoint: http://localhost:8080/albums/{albumId}
+    -Resource endpoint: http://localhost:8080/albums/{albumId}
     -Expected response code: 200
 ```
 
