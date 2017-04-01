@@ -11,7 +11,7 @@ This REST API implemention utilizes Java 8/Maven/SpringMVC Rest and runs in an e
   > mvn clean package
 -Once the .jar file has been built, cd into the project's /target directory and startup the app as such:
   > java -jar photoAlbumManager-0.0.1-SNAPSHOT.jar
--Watch the stdout for exceptions and eventually you'll see output similar to the following, indicating the app is running: 
+-Watch the stdout and eventually you'll see output similar to the following, indicating the app is running: 
 
 2017-03-31 17:49:42.807  INFO 18927 --- [           main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
 2017-03-31 17:49:42.814  INFO 18927 --- [           main] com.rpo.PhotoAlbumMgrApplication         : Started PhotoAlbumMgrApplication in 9.398 seconds (JVM running for 10.036)
