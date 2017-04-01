@@ -5,8 +5,8 @@ This REST API implemention utilizes Java 8/Maven/Springboot/SpringMVC Rest and r
 
 ## How to run the app:
 ```
--Clone the repository
--Make sure you are runnning Java 8
+-Clone the code repository or donwload/extract the zip file 
+-Make sure you are runnning Java 8 and have Maven installed
 -Build the project and exectue the tests by running the following:
   > mvn clean package
 -Once the .jar file has been built, cd into the project's /target directory and startup the app as such:
